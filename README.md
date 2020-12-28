@@ -1,1 +1,2 @@
-# q2-cnc-assignments
+#Q2-CNC-Assignments (Sir Yousuf & Ameen Alam)
+     Not uploaded yet
